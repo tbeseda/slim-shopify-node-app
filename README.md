@@ -38,7 +38,7 @@ Clone this repo to your local environment and a few Shopify CLI commands:
 ```bash
 git clone git@github.com:tbeseda/slim-shopify-node-app.git my-new-app
 cd my-new-app
-yarn
+npm i # or yarn
 ```
 
 Make sure your Shopify CLI is logged in then connect this codebase to your app and store:
